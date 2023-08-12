@@ -2,6 +2,7 @@
 * OS: Ventura 13.3
 * Opencore: 0.9.4
     * Note: untick “showpicker” to skip the boot picker
+         * https://oc.skk.moe/8-misc.html
 * Added kext as follows:
     * For enabling Intel(R) Dual Band Wireless-AC 8260, add the following kext:
         * IntelBluetoothFirmware.kext 2.3.0 
@@ -9,4 +10,6 @@
     * For enabling intel bluetooth, add the following kext:
         * IntelBTPatcher.kext 2.3.0 
         * BlueToolFixup.kext 2.6.8
-     
+* Thanks to
+    * https://github.com/lrlin5656
+    * https://github.com/OpenIntelWireless/IntelBluetoothFirmware     
